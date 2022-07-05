@@ -19,4 +19,3 @@ Information:
 
 ![Carmel github stats](https://github-readme-stats.vercel.app/api?username=CarmmelKalfa&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarmelKalfa&layout=compact&theme=tokyonight)
-
