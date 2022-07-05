@@ -19,3 +19,4 @@ Information:
 
 ![Carmel github stats](https://github-readme-stats.vercel.app/api?username=CarmelKalfa&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarmelKalfa&layout=compact&theme=tokyonight)
+[![Cfx-Resolver](https://github-readme-stats.vercel.app/api/pin/?username=CarmelKalfa&repo=Cfx-Resolver&show_owner=true&theme=tokyonight)](https://github.com/CarmelKalfa/Cfx-Resolver)
