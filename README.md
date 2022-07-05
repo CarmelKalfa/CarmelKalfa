@@ -17,5 +17,5 @@ Information:
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/756424816516530247?hideStatus=true)](https://discord.com/users/756424816516530247)
 
-![Carmel github stats](https://github-readme-stats.vercel.app/api?username=CarmmelKalfa&show_icons=true&theme=tokyonight)
+![Carmel github stats](https://github-readme-stats.vercel.app/api?username=CarmelKalfa&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarmelKalfa&layout=compact&theme=tokyonight)
