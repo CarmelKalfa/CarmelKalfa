@@ -2,7 +2,7 @@
 
 Information:
 
-- 😄 I'm 17 years old
+- 😄 I'm 17.7 years old
 - 📨 My discord: `Carmel#1111`
 - 🤖 My Linkdin [click here](https://www.linkedin.com/in/carmel-kalfa-961524234/) 
 
